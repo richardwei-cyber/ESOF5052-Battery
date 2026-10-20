@@ -1,0 +1,7 @@
+dataset,battery,threshold,EOL,status
+CALCE,CS2_35,0.8,331,observed
+CALCE,CS2_36,0.8,533,observed
+NASA,B0005,0.8,75,observed
+NASA,B0006,0.8,63,observed
+NASA,B0007,0.8,86,observed
+NASA,B0018,0.8,45,observed
